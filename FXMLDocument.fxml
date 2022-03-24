@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.shape.Line?>
+
+<AnchorPane id="AnchorPane" prefHeight="762.0" prefWidth="1182.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="outersight.FXMLDocumentController">
+   <children>
+      <Line endX="96.0" endY="-139.0" layoutX="716.0" layoutY="154.0" startX="96.0" startY="607.0" />
+      <Line endX="657.0" layoutX="123.0" layoutY="135.0" startX="-100.0" />
+      <Line endX="657.0" layoutX="494.0" layoutY="238.0" startX="339.0" />
+      <Pane layoutX="23.0" layoutY="161.0" prefHeight="576.0" prefWidth="766.0" style="-fx-border-width: 1; -fx-border-color: gray;" />
+   </children>
+</AnchorPane>
